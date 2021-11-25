@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+}
+
+.im-gif {
+  width: 1440px;
+  height: 500px;
+  position: absolute;
+  top: 0px;
+  left:0px;
+  z-index: 1
+}
